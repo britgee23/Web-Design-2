@@ -1,0 +1,24 @@
+@import './vendor/normalize';
+@import './partials/colors';
+@import './partials/mixins';
+@import './partials/typography';
+
+// Medium screens and up
+@media (min-width: 768px) {
+    
+  }
+  // Big screens
+  @media (min-width: 1024px) {
+    
+    }
+  
+
+ header {
+     img{
+      width: 300px;   
+     }
+ nav {
+     background-color: black;
+     a{
+      color: $primary-color;
+     }
