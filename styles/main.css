@@ -1,0 +1,26 @@
+/* CSS Document */
+
+article figure img {
+	width: 300px;
+}
+
+.nav-bar {
+	text-decoration: none;
+	color: plum
+}
+		
+nav {	
+	background-color: black;
+	margin:0px;
+	padding: 10px
+}
+
+.paragraph {
+	display: inline-block;
+	width: 50%;
+	margin: 16px;
+
+}
+.gold-color {
+	color: goldenrod
+}
